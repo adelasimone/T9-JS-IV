@@ -42,4 +42,4 @@ let cliente1 = {
     atendente:'Joana Maria'
   } 
 }
-console.log(cliente1)
+console.log(cliente1);
