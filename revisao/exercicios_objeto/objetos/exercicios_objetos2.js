@@ -43,7 +43,7 @@ const objetoVazio = {}
 //Analise o seguinte código e verifique qual será a sua saída:
 
 const objt = {
-  nome: "Jessica"
+  nome: "Jessica",
   idade: 26
 }
 
